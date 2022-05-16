@@ -1,0 +1,22 @@
+.card{
+    border: 2px solid black;
+    padding: 15px;
+    font-style: unset;
+    font-weight: 600;
+    font-size: 20px;
+}
+/*#reset {*/
+/*    margin: 10px;*/
+/*}*/
+
+/*form{*/
+/*    display: flex;*/
+/*    justify-content: flex-start;*/
+/*    padding: 20px;*/
+/*    font-style: unset;*/
+/*    font-size: 20px;*/
+
+/*}*/
+form{
+    border: ;
+}
